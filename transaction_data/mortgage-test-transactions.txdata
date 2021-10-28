@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "mortgageTestExists",
+        "transactionLabel": "A test mortgageTestExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createMortgageTest",
+        "transactionLabel": "A test createMortgageTest transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readMortgageTest",
+        "transactionLabel": "A test readMortgageTest transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateMortgageTest",
+        "transactionLabel": "A test updateMortgageTest transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteMortgageTest",
+        "transactionLabel": "A test deleteMortgageTest transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
